@@ -1,2 +1,2 @@
 # dialog
-[https://vollantre.github.io/dialog/](Live)
+[Live](https://vollantre.github.io/dialog/)
